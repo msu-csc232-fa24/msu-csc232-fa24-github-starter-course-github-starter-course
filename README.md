@@ -88,15 +88,19 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
-## 📝 Optional next steps 
+## 📝 Lab Tasks
 
-* Open a pull request and let your teacher know that you’ve finished this tutorial.
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
+* Clone this reposityory locally and created a branch named `develop` within which to do your work.
+    * Create a new markdown file in this repository named `bio.md`. Introduce yourself to your instructor and GAs. Let them know what you learned and what you are still confused about! Experiment with different styles! Be entertaining! (And if you're uncomfortable sharing any personal information, don't worry... you can say anything you want here, within reason, of course.)
+    * Open a pull request and let your teacher know that you’ve finished this tutorial. Make sure this pull request includes the `bio.md` file mentioned above.
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this tutorial](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+* Optional: [Let us know what you liked or didn’t like about the content of this tutorial](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey?
 
-## 📚  Resources 
+## 📚  Resources
+
+It is *highly* recommended that you view each of the following videos.
+
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)

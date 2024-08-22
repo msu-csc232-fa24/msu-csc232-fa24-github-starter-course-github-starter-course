@@ -1,0 +1,1 @@
+# Hello, my name is Michael, and i am majoring in statistics. I love watching football especially with fantasy football around. I am not a big fan of programming but I realize it is a neccessity in statistics so I will try my best. I look forward to learning new things from this class.

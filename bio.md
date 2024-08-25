@@ -1,0 +1,1 @@
+#Hello, this is Samuel Cope, and this lab was helpful. Learned a lot, don't have any questions as of yet. 
